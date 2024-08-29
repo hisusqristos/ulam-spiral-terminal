@@ -51,5 +51,3 @@ ulam spiral in terminal deserves to be seen.
     '⠀', '⠀', '@', '⠀',
     '⠀', '⠀'
   ]
-
-Doesn't look special at all, but it's special to me, OK?????? :/
